@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 from teacher import Teacher
 from user import User
 
